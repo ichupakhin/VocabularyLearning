@@ -1,0 +1,88 @@
+
+
+Egypt
+India
+Iran
+Japan
+Mexico
+Turkey
+Thailand
+
+
+Afghanistan Afghan Persian - Pashto::::;
+Argentina Argentine/Argentinian	Spanish::::;
+Australia Australian English:острЁлиа острЁлиан »нглыш:::;
+Belgium Belgian French/Flemish::::;
+Bolivia Bolivian Spanish::::;
+Brazil Brazilian Portuguese:брыз»л брыз»лиан пќтугииз:::;
+Cambodia Cambodian Cambodian::::;
+Cameroon Cameroonian French/English::::;
+Canada Canadian English/French:кЁнада кэнЁдиан »нглыш фрЁнч:::;
+Chile Chilean Spanish:чџилы чџилиан спЁниш:::;
+China Chinese Chinese:чјйна чайн»из чайн»ищ:::;
+Colombia Colombian Spanish::::;
+Costa Rica Costa Rican Spanish::::;
+Cuba Cuban Spanish::::;
+Denmark Danish(Dane) Danish:дЁнмарк дЁнишь дЁйн дЁнишь:::;
+Dominican Republic Dominican Spanish::::;
+Ecuador Ecuadorian Spanish::::;
+Egypt Egyptian Arabic:»иджыпт ииджџпшн Ёэрэбик:::;
+El Salvador Salvadorian Spanish::::;
+England English English::::;
+Estonia Estonian Estonian::::;
+Ethiopia Ethiopian Amharic::::;
+Finland Finnish Finnish:ф»нлэнд ф»ныш ф»ныш:::;
+France French French:фрЁнс фрЁнч фрЁнч:::;
+Germany German German:дж®рмэни дж®рмн дж®рмн:::;
+Ghana Ghanaian English::::;
+Greece Greek Greek:гр»ис гр»ик гр»ик:::;
+Guatemala Guatemalan Spanish::::;
+Haiti Haitian French/Creole::::;
+Honduras Honduran Spanish::::;
+Indonesia Indonesian Indonesian:»ндонЁйжа »ндонЁйжн »ндонЁйжн:::;
+Iran Iranian Persian:ирјан ирјниан п®ршн:::;
+Ireland Irish Irish/English:јйрлэнд јйришь »нглышь:::;
+Israel Israeli Hebrew:изрЁэл изрЁлии х»ибруу:::;
+Italy Italian Italian:»тэли итЁлиан итЁлиан:::;
+India Indian Hindi/English:»ндиа »ндиан х»нди/»нглыш:::;
+Japan Japanese Japanese:джыпЁн джјпанис джјпанис:::;
+Jordan Jordanian Arabic::::;
+Kenya Kenyan Swahili::::;
+Laos Laotian Laotian::::;
+Latvia Latvian Latvian::::;
+Lebanon Lebanese Arabic::::;
+Lithuania Lithuanian Lithuanian::::;
+Malaysia Malaysian Malay/Malaysian::::;
+Mexico Mexican Spanish:м≈ксико м≈ксикн спЁниш:::;
+Morocco Moroccan Arabic/French::::;
+Netherlands Dutch Dutch::::;
+New Zealand New Zealander English/Maori:ньё з»илэнд ньё зилЁндр »нглыш:::;
+Nicaragua Nicaraguan Spanish::::;
+Norway Norwegian Norwegian::::;
+Panama Panamanian Spanish::::;
+Paraguay Paraguayan Spanish::::;
+Peru Peruvian Spanish::::;
+Philippines Filipino Tagalog/Filipino::::;
+Poland Polish Polish:пќлэнд пќлишь пќлишь:::;
+Portugal Portuguese Portuguese::::;
+Puerto Rico Puerto Rican Spanish::::;
+Romania Romanian Romanian::::;
+Russia Russian Russian::::;
+Saudi Arabia Saudi Arabic::::;
+Scotland Scottish English::::;
+South Korea Korean Korean::::;
+Spain Spanish Spanish::::;
+Sweden Swedish Swedish::::;
+Switzerland Swiss German,French,Italian,Romansh::::;
+Taiwan Taiwanese Chinese::::;
+Tajikistan Tajik Tajik(Persian)::::;
+Thailand Thai Thai:тјйлнд тјй тјй:::;
+Turkey Turkish Turkish::::;
+Ukraine Ukrainian Ukrainian::::;
+(The) United Kingdom British English::::;
+(The) United States American English::::;
+Uruguay Uruguayan Spanish::::;
+Venezuela Venezuelan Spanish::::;
+Vietnam Vietnamese Vietnamese:вь≈тнам вьетнам»из вьетнам»из:::;
+Wales Welsh Welsh/English::::; 
+

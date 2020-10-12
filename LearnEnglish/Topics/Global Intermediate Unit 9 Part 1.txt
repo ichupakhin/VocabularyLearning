@@ -1,0 +1,47 @@
+to begin I/G:::beginnen:;
+to continue I/G:::fortfahren:;
+to hate I/G:::hassen:;
+to like I/G:::moegen:;
+to love I/G:::lieben:;
+to prefer I/G:::bevorzugen:;
+to start I/G:::starten:;
+to detest I/G::Ich hasse Detektive:verabscheuen, hassen:;
+to afford (so) sth I:::1. etw anbieten. 2. sich etw leisten:;
+to agree I_:::zustimmen:;
+to appear I:::erscheinen, auftauchen:;
+to arrange sth I:::etw anordnen, etw einrichten:;
+to ask I:::fragen:;
+to choose I:::waehlen:;
+to decide I:::entscheiden:;
+to expect I:::erwarten:;
+to help I:::helfen:;
+to hope I:::hoffen:;
+to manage I:::bewaeltigen, leiten, regeln:;
+to offer I:::anbieten:;
+to plan I:::planen:;
+to promise I:::versprechen:;
+to refuse I:::etw verweigern, ablehnen:;
+to seem I:::scheinen:;
+to want I:::wollen:;
+to would like I:::m?chten:;
+to adore so/sth G:::nach jmdm./etw. verrueckt sein:;
+to abhor sth G::ненавижу обходы:etw hassen:;
+to be indifferent about sth/so G:::desinteressiert sein:;
+to carry on G:::weitermachen:;
+to fancy sth/so G:::auf etw.Akk. Bock haben, etw/j-n gern moegen:;
+to finish G:::enden:;
+to give up G:::aufgeben:;
+to imagine G:::vorstellen:;
+to keep G:::beibehalten:;
+to mind G:::beachten:;
+to suggest G:::vorschlagen:;
+to enjoy G:::geniessen:;
+to be passionate of sth G::: etw leidenschaftlich lieben:;
+to be keen on sth G:::auf etw sharf sein:;
+to have a soft spot for sth/so G:::eine Schwaeche fuer jmdn./etw. haben:;
+verbs that express feelings, start or end of action are normally used with G(but sometimes also with both I and G)
+to can't + Verb in infinitive + Verb with -ing
+sentences that end with a preposition allmost with -ing:::eine Regel 1:I gave up smoking;
+verbs that express emotions, beginning or ending of sth are  allmost with -ing or sometimes both I and -ing:::eine Regel 2:I love visiting museums/I love to visit museums/I adore walking on beach;
+
+ 

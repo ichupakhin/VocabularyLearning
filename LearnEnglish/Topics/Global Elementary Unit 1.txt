@@ -1,0 +1,38 @@
+intellectual:интэлЁкчюал::intellektuell:;
+curiosity:кьёриќсити::die Neugier,die Merkwuerdigkeit:intellectual curiosity, to burst with curiosity;
+cultural:кјлчьрл::kulturell:;
+knowledge:нќолэдж::das Wissen, die Kenntnisse:;
+outlook:јутлук::Perspektiven, die Aussicht, die Vorhersage:business, weather outlook;
+similar:с»мылаа:симулировать эксперимент, т.е. делать максимально похожим:aehnlich:;
+the same:сЁйм::der/die/das gleiche:;
+expression:икспрЁшн::der Ausdruck,die Ausserung:;
+siblings:сџиблин:—»амские ЅЋизнецы:das Geschwister:;
+uneven:јнџивэн::ungerade (Zahlen):;
+to introduce:»нтродьюс::sich/j-n vorstellen:Let me introduce myself/she;
+number plate=license plate:нјмбр плЁйт лјйснс::das Autokennzeichen:;
+What's your house number?:::Was ist deine Hausnummer?:;
+Which floor do you live on?:::In welchem Stock wohnst du?:;
+When's your birthday?:::Wann ist dein Geburtstag?:;
+Do you have any siblings?:::Hast du Geschwister?:;
+What's your phone number?:::Was ist deine Telefonnummer?:;
+What's your name?:::Was ist dein Name?:;
+How do you spell your name?:::Wie buchstabierst du deinen Namen?:;
+Where are you from?:::Wo kommst du her?:;
+What city do you come from?:::Aus welcher Stadt kommst du?:;
+Which city are you from?:::Aus welcher Stadt bist du?:;
+at symbol:Ёт с»мбл::At-Zeichen @:;
+slash:слЁш::/:;
+backslash:бЁкслЁш::\:;
+dot=point:дќт пќйнт::der Punkt . :;
+underscore:јнндэскќо::Unterstrich _ :;
+hyphen=dash=minus:хјйфн=дЁэш=мјйнс::der Bindestrich=der Strich=das Minus - :;
+times:тјймс::Mal * :two times two;
+plus:плјсc::das Plus + :;
+equals:»квјлс::ist gleich = :;
+The sixth of July in nineteen seventy-two:::der sechste Juli neunzehn zweiundsiebzig:;
+
+
+
+
+
+

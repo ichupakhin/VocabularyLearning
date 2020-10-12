@@ -1,0 +1,11 @@
+hold held held:хќолд хЁлд хЁлд:деражать клавишу:halten:;
+hurt hurt hurt:х®Єрт х®Єрт х®Єрт:болит сердце:schmerzen(болеть,причин€ть боль),wehtun:;
+keep kept kept:к»ип кЁпт кЁпт:хранить молчание:behalten:;
+kneel knelt knelt:н»ил нЁлт нЁлт:вставать на колени у реки Ќ»Ћ:knien(вставать на колени):;
+knit knit knit:н»т н»т н»т:KNoTen stricken или Ќ»“ками в€зать:stricken:;
+know knew known:нќоу нёю нќуэн::wissen,kennen:;
+lay laid laid:лЁэй лЁйд лЁйд::legen:;
+lead led led:л»ид лЁд лЁд:Ћ»ƒер:leiten,fuehren:;
+lean leant leant:л»ин лЁнт лЁнт:Ћ»Ќ опираетс€ на стену и отвечает альфу:sich an etw. Akk lehnen (to or against sth.),sich beugen:;
+leap leapt leapt:л»п лЁпт лЁпт:играть в лапту и прыгать:springen,ueberspringen,hervorspringen(выпрыгивать,выскакивать):;
+

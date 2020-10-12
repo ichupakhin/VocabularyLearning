@@ -1,0 +1,11 @@
+learn learnt/learned learnt/learned:л®Єрн л®Єрт л®Єрнт::lernen:;
+leave left left:л»ив лЁфт лЁфт:покинуть и уйти налево:verlassen:;
+lend lent lent:лЁнд лЁнт лЁнт::leihen:;
+let let let:лЁт лЁт лЁт::lassen:Let me go!;
+lie lay lain:лјай лЁэй лЁэйн::liegen:;
+lie lied lied:лјай лјйд лјйд::luegen ueber=to lie about:;
+light lit lit:лјйт лџт лџт::anzuenden,beleuchten:;
+lose lost lost:л”уз лќост лќост::verlieren:;
+make made made:мЁйк мЁйд мЁйд::herstellen,machen:;
+mean meant meant:м»ин мЁнт мЁнт::meinen:;
+meet met met:м»ит мЁт мЁт::treffen:;
