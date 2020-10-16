@@ -12,12 +12,12 @@ to exchange sth for sth:иксч≈йндж::etw gegen etw tauschen:;
 cow:кэју::die Kuh,ue-e:;
 to plant sth:плјант::etw pflanzen:to plant the bean; 
 to be astonished:эстќнэщт:удивленный эстонец:ueberrascht, erstaunt:;
-enormous:энќомос::enorm:;
+enormous:энќомос::extremely large or great:;
 giant:джјйант::riesig:;
 treasure:трЁжаа:думал сокровище а там трэш:der Schatz:;
 suddenly:сјддэнли:неожиданно в саду взошли цветы:ploetzlich, auf einmal:;
 furious:фьёриос:разгневанна€ фури€:rasend, wild, aufgebracht-разгневанный,раздраженный:;
-harbour:хјабыа:’арфврад имеет порт:der Hafen,ae:;
+harbour:хјабыа:’арврад имеет порт:der Hafen,ae:;
 cave:кЁйв:есть cake в пещере:Hoehle пещера:;
 symphony orchestra:с»мфни ќокестра::das Symphonieorchester:;
 student union:стёдэнт ёниан::das Studentenwerk:;
@@ -28,7 +28,7 @@ I would suggest=I'd suggest walking down to the harbour:::Ich wuerde einen Spazi
 I can really recommend sth/to do sth:::Ich kann wirklich etw/etw zu machen empfehlen:;
 you could try sth:::Sie koennten etw versuchen:;
 that sounds/is good/great:::das klingt/ist gut/toll:;
-to enable sth:инЁйбл::etw ermoeglichen:;
+to enable sth:инЁйбл::etw ermoeglichen=to make someone able to do something, or to make something possible:Some tests enable you to find out the sex of your baby before it's born;
 therefore:thЁфооа::deswegen, deshalb:;
 national events:нЁшнл ивЁнтс::nationale Veranstaltungen:;
 famous places:фЁймс плЁйсыс::beruehmte Plaetze:;
@@ -45,7 +45,7 @@ to reflect sth:рыфлЁкт::etw reflektieren, widerspiegeln:words reflect a culture;
 outsider:::someone who does not belong to a particular group or organisation:;
 to intend sth:интЁнд:намереватьс€ купить интел:etw beabsichtigen, wollen, bezwecken:;
 to participate in sth:паат»сипйэт:Teilnehmer - participant or принимать участие на вечеринке:teilnehmen an etw Dat:;
-along:элќон::vorwaerts,weiter:;
+along:элќон::1.entlang=in a line next to something long.2.from one part of a road, river, etc. to another:1.Cars were parked all along the road. 2.We walked along the beach collecting small crabs in a bucket.;
 regional features:рџиджинл ф»час::regional Besonderheiten:regional features of pronunciation and grammar;
 to make up sth:::etw ausmachen,gestalten,darstellen:regional features make up a country's national dialect of English;
 to differ from/in sth/so:ды»фа::sich von etw/in etw unterscheiden:English of Scotland began to differ from the English of England;
@@ -66,7 +66,7 @@ the most widely-spoken language:уа…дли::die meist gesprochene Sprache:;
 mother tongue:мјthаа тјан::die Muttersprache:;
 in addition:::zusaetzlich, darueber hinaus, ausserdem:;
 nowadays:нэју а деэйс::heutzutage:;
-to be very pleased:плы»изд::sehr erfreut sein:;
+to be pleased about sth:плы»изд::?ber etw erfreut sein:;
 as well:эз вуЁлл::ebenso, auch, ebenfalls:;
 purpose (of sth):п®Єпс::der Zweck (von etw):;
 where else:::wo sonst:;
@@ -85,7 +85,7 @@ to tick sth:т»к::etw ankreuzen, abhacken:;
 visual/auditory/kinaesthetic:в»жьюал ќодитыри киныстЁтик::visuelle/audive/kinaesthetisch:;
 accurate:јакьюрэт::sorgfaeltig,akkurat:;
 it's getting late:::es wird spaet:;
-to do someone a big favour:фэ…ва::j-m einen grossen Gefallen tun:;
+to do so a big favour:фэ…ва::j-m einen grossen Gefallen tun:;
 to forward sth:фќовод:форвард бежит на почту чтобы отправить письмо:etw absenden:;
 to argue for/against sth:јагью::fuer/gegen etw argumentieren:;
 to face sth/so:фЁйс::gegen etw/j-n angehen (боротьс€ против):;
@@ -96,7 +96,7 @@ worth:во®Єth::...wert, der Wert:worth seeing-sehenwert, worth knowing-wissenswer
 gap:г≈п:гепард выгл€дывает из колодецного люка:die Luecke, der Abstand:;
 I haven't seen you for ages:::Ich habe dich seit Ewigkeiten nicht gesehen:;
 to notice (so/sth) (that...):нќутис::etw/j-n bemerken, merken dass...:;
-
+to astonish so.:эстОныш:удивленный Эстонец:jmdn. in Erstaunen versetzen:;
  
 
 

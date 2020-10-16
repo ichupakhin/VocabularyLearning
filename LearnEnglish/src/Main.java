@@ -24,8 +24,8 @@ public class Main {
 		MainMenuController mainMenuController = new MainMenuController(mainMenuView, mainMenuModel);
 		mainMenuView.setVisible(true);
 		
-		File file = new File("Hello.txt");
-		file.createNewFile();
+		//File file = new File("Hello.txt");
+		//file.createNewFile();
 	}
 	
 

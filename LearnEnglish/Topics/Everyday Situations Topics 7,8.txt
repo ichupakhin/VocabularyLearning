@@ -1,0 +1,57 @@
+to celebrate an occasion:::einen Anlass feiern:;
+throughout:::durchweg,ganz und gar:throughout the world;
+to wrap presents:::Geschenke einpacken:;
+emergency:эмЁёдженси::r Notfall:;
+accident:Эксидэнт::r Notfall:;
+witness:уИт нэсс::r Zeuge/e Zeugin:;
+damaged car:::beschädigtes Auto:;
+injured person:Инджёт::r/e Verletzte:;
+to injure so:Инджа::j-n verletzen:;
+fire department:::e Feuerwehr:;
+ambulance:Амбиланс::r Krankenwagen:;
+handout:хЭнд аут::s Informationsblatt:;
+to fill in(=out) a form:::ein Formular ausfüllen:;
+medical history:::e Krankengeschichte:;
+allergy:Алэджыи::e Allergie:;
+current medication:::aktuelle Arzneimittelanwendung:;
+DOB=date of birth:::s Geburtsdatum:;
+NOK=next of kin:::r/e Angehörige:;
+family history of illness:::Familiengeschichte der Krankheit:;
+booklet:бУклэт::e Broschüre:;
+stomachache:стОмык Эйк::Bauchschmerzen:;
+to prescribe so sth:::j-m etw verschreiben, verordnen:;
+prescription:::s Rezept, e Verordnung:;
+to get migraines:ммИгрэнс::Kopfschmerzen bekommen:;
+vitamin supplements
+to diagnose so with sth(illness)
+rare disease
+to be in perfect health
+shrink=psychiatrist
+gynecologist
+surgeon
+free universal health care
+sth pains so::::my right shoulder is paining me;
+to derail
+to lift weights
+rash
+runny nose
+sore throat                                  tools.vitruv.domains.java.monitorededitor.ChangeEventExtendedVisitor
+food poisoning
+diarrhea
+diabetes
+asthma
+vomiting
+backache
+cold:::Erkältung:;
+itchy eyes
+sneezing
+hangover
+hepatitis
+virus
+high blood sugar
+cough
+flu
+symptom
+acceptable
+to be fond of so/sth:::j-n/etw sehr lieben,mögen:I’m really fond of my aunt and enjoy seeing her.;
+

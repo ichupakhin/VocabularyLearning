@@ -2,6 +2,7 @@ package model;
 
 public class PractiseTopicModel {
 	private Topic topic;
+	private int topicSize;
 	
 	public PractiseTopicModel(Topic topic) {
 		this.topic = topic;
@@ -29,5 +30,11 @@ public class PractiseTopicModel {
 		return word + " [" + pronunciation + "] [" + association + "] - " + translation + "\nExamples: " + examples;
 		
 	}
+	
+	public int getTopicSize() {
+		return topic.getTopicSize();
+	}
+	
+
 //	public String[] getNextEntry()
 }

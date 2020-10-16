@@ -1,0 +1,65 @@
+precision
+tolerance
+precise-imprecise
+to vary
+to differ
+variation
+to be accurate
+accurately
+to be exact
+accuracy
+acceptable variations in precision
+range of acceptable sizes
+deviation from sth
+drawing
+shaft
+diameter
+to deviate 1 mm either side
+slightly inaccurate
+to be permissible
+to be within tolerance
+to be outside tolerance
+tight tolerance=close tolerance
+loose tolerance
+to machine:::maschinell herstellen:;
+concrete:кОнкрыит::r Beton:;
+wet concrete:кОнкрыит::r Frischbeton:;
+bolt
+to fit together
+types of fit
+clearance fit
+interference fit
+clearance=gap
+to slide ande turn freely
+to be insufficient
+to bind::::the component will bind=not able to slide or turn freely
+not enough play
+too much play
+to force a component into the hole
+metal expands by heating
+expantion
+metal contracts by cooling
+contraction
+axle
+to feet a wheel on an axle
+to wide
+to shorten
+to narrow
+blueprinting
+to blueprint
+to manufacture
+spec
+kart
+driving talent
+slight::::slight difference;
+one way round this problem is
+to weld
+to solder
+to rivet
+to twist
+to brase
+to staple
+
+
+
+

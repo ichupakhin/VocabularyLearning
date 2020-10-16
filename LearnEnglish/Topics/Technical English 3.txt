@@ -1,0 +1,45 @@
+to deprecate sth
+deprecated
+circumvented
+contradictory
+to adhere to sth
+to trigger sth:::erzeugen:;
+in response to sth:::als Antwort auf etw:;
+to restore sth:::etw wiedererstellen:;
+to emerge:::auftauchen:;
+sensible:::vernünftig:;
+to stem from sth/so:::von etw/j-m stammen:;
+inherently:::von Natur aus:;
+faulty:::fehlerhaft:;
+to converge:::konvergieren:;
+to interfere with sth:::etw beeinträchtigen:;
+to retrieve sth (from sth):ретрыИиф::etw aufrufen, (von etw) abrufen, zurückholen:;
+retrieval
+pending:::bevorstehend:;
+downside
+distinct:::clearly separate and different, unterschieden:The two concepts are quite distinct (from each other);
+ably
+to imply sth
+Disambiguation:::
+peculiarity
+extensive
+properly
+to enhance sth
+notion of sth
+objective
+to query sth:::etw abfragen:;
+prepended::::prepended parameter
+to infer sth form sth
+to advise sth to do sth
+cared
+to escape sth/so:::etw/j-m entkommen:;
+crucial (for sth):::entscheidend, kritisch (für etw)
+assignment
+to assign sth. to so./sth.:::etw etw/j-m zuordnen:;
+mandatory
+ambiguous
+stand-alone:::autonom:;
+to promt sth
+sequel:::Fortsetzung
+seamlessly:::nahtlos:;
+14,30,34,38,47,50,57,59,60,63,69,70,72,75,88,114,135,158,164,172,176,180,186,190,234,255,276,295,318,322,324,

@@ -6,7 +6,7 @@ outlook:јутлук::Perspektiven, die Aussicht, die Vorhersage:business, weather out
 similar:с»мылаа:симулировать эксперимент, т.е. делать максимально похожим:aehnlich:;
 the same:сЁйм::der/die/das gleiche:;
 expression:икспрЁшн::der Ausdruck,die Ausserung:;
-siblings:сџиблин:—»амские ЅЋизнецы:das Geschwister:;
+sibling:сџиблин:—»амские ЅЋизнецы:das Geschwister:;
 uneven:јнџивэн::ungerade (Zahlen):;
 to introduce:»нтродьюс::sich/j-n vorstellen:Let me introduce myself/she;
 number plate=license plate:нјмбр плЁйт лјйснс::das Autokennzeichen:;

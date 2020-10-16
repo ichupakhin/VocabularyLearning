@@ -7,6 +7,7 @@ public class MainMenuModel {
 	private Storage theStorage;
 	private Topic currentTopic;
 	private String currentTopicName;
+	private int currentTopicSize;
 	
 	public MainMenuModel() {
 		
@@ -15,6 +16,7 @@ public class MainMenuModel {
 	public void setCurrentTopicName(String currentTopicName) {
 		this.currentTopicName = currentTopicName;
 		currentTopic = new Topic(new File("Topics//" + currentTopicName));
+		currentTopicSize = currentTopic.getTopicSize();
 	}
 	
 	public String getCurrentTopicName() {
@@ -29,6 +31,9 @@ public class MainMenuModel {
 		return currentTopic;
 	}
 	
+	public int getTopicSize() {
+		return currentTopic.getTopicSize();
+	}
 	
 	
 }

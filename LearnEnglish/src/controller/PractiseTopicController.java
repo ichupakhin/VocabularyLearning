@@ -80,7 +80,7 @@ public class PractiseTopicController {
 					theModel.getTopic().popEntryFromStackAndPutItToCurrentEntry();
 					String translation = theModel.getTopic().getTranslation();
 					theView.setTextToTheTextArea(translation);
-					System.out.println("Zaehlerstand = " + ++view.MainMenuView.counter);
+					System.out.println("Zaehlerstand = " + ++view.MainMenuView.counter + " von " + theModel.getTopicSize());
 //					theView.getTextArea().;
 				}
 				theView.getRootPane().setDefaultButton(theView.getCheckAnswerButton());
@@ -92,7 +92,7 @@ public class PractiseTopicController {
 
 		@Override
 		public void actionPerformed(ActionEvent arg0) {
-			theView.cleanTextArea();
+			theView.cleanTextArea(); 
 			
 		}
 	}

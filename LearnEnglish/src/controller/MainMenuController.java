@@ -5,6 +5,7 @@ import java.awt.event.ActionListener;
 
 import model.MainMenuModel;
 import model.PractiseTopicModel;
+import model.PractiseTopicReverseModel;
 import model.Storage;
 import model.Topic;
 import view.MainMenuView;
@@ -15,6 +16,7 @@ public class MainMenuController {
 	private MainMenuModel theModel;
 	
 	private PractiseTopicController practiseTopicController;
+	private PractiseTopicReverseController practiseTopicReverseController;
 
 	
 	public MainMenuController(MainMenuView theView, MainMenuModel theModel) {
@@ -23,6 +25,7 @@ public class MainMenuController {
 		
 		this.theView.addSelectTopicListener(new SelectTopicListener());
 		this.theView.addPractiseTopicListener(new PractiseTopicListener());
+		this.theView.addPractiseTopicReverseListener(new PractiseTopicReverseListener());
 	}
 	
 	class SelectTopicListener implements ActionListener {
@@ -49,6 +52,21 @@ public class MainMenuController {
 				theView.activateSecondJPanel();
 				theView.setTextToTheTextArea("Please click 'Next'");
 				practiseTopicController = new PractiseTopicController(theView, new PractiseTopicModel(theModel.getCurrentTopic()));
+//TODO				practiseTopicController.start();
+			}
+			
+		}
+		
+	}
+	
+	class PractiseTopicReverseListener implements ActionListener {
+
+		@Override
+		public void actionPerformed(ActionEvent e) {
+			if(theView.isEnabledPractiseTopicButton()) {
+				theView.activateSecondJPanel();
+				theView.setTextToTheTextArea("Please click 'Next'");
+				practiseTopicReverseController = new PractiseTopicReverseController(theView, new PractiseTopicReverseModel(theModel.getCurrentTopic()));
 //TODO				practiseTopicController.start();
 			}
 			

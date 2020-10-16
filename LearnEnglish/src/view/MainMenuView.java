@@ -5,6 +5,9 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 
 import javax.swing.*;
+import javax.swing.text.SimpleAttributeSet;
+import javax.swing.text.StyleConstants;
+import javax.swing.text.StyledDocument;
 
 public class MainMenuView extends JFrame {
 	
@@ -20,7 +23,7 @@ public class MainMenuView extends JFrame {
 
 	
 	private JButton selectTopicButton = new JButton("Select");
-	private JButton learnTopicButton = new JButton("Learn the topic");
+	private JButton practiseTopicReverseButton = new JButton("Practise the topic reverse");
 	private JButton addWordButton = new JButton("Add a new word to the topic");
 	private JButton practiseTopicButton  = new JButton("Practise the topic");
 
@@ -29,7 +32,7 @@ public class MainMenuView extends JFrame {
 	private JButton showSolutionButton = new JButton("Show solution");
 	private JButton nextButton = new JButton("Next");
 	private JButton cancelButton = new JButton("Cancel"); 
-	private JTextArea textArea = new JTextArea(200,200);
+	private JTextPane textPane = new JTextPane();
 	private JTextField textField = new JTextField();
 	
 	
@@ -50,17 +53,23 @@ public class MainMenuView extends JFrame {
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setSize(1300,730);
 		this.setLocationRelativeTo(null);
-		mainMenuPanel.setBounds(200,0,900,100);
+		mainMenuPanel.setBounds(250,0,900,100);
 		
 		scrollPane.setBounds(0, 0, 195, 600);
 		
-		textArea.setBounds(200, 105, 1000, 100);
+		textPane.setBounds(200, 50, 1000, 180);
+		StyledDocument doc = textPane.getStyledDocument();
+		SimpleAttributeSet center = new SimpleAttributeSet();
+		StyleConstants.setAlignment(center, StyleConstants.ALIGN_CENTER);
+		doc.setParagraphAttributes(0, doc.getLength(), center, false);
+		//textPane.setLogicalStyle();
 		textField.setBounds(200, 250, 1000, 50);
+		textField.setHorizontalAlignment(JTextField.CENTER);
 		practiseTopicPanel.setBounds(200, 300, 1000, 50);
 
 //Text style		
 	    Font font = new Font("Arial", Font.CENTER_BASELINE, 18);
-	    textArea.setFont(font);
+	    textPane.setFont(font);
 		textField.setFont(font);
 		
 //		nextButton.setMnemonic(KeyEvent.VK_N);
@@ -71,9 +80,10 @@ public class MainMenuView extends JFrame {
 
 //		panel.
 		mainMenuPanel.add(selectTopicButton);
-		mainMenuPanel.add(learnTopicButton);
-		mainMenuPanel.add(addWordButton);
 		mainMenuPanel.add(practiseTopicButton);
+		mainMenuPanel.add(practiseTopicReverseButton);
+//		mainMenuPanel.add(addWordButton);
+
 		deactivateFirstJPanel();
 		
 
@@ -86,20 +96,20 @@ public class MainMenuView extends JFrame {
 		
 		add(mainMenuPanel);
 		add(textField);
-		add(textArea);
+		add(textPane);
 		add(scrollPane);
 		add(practiseTopicPanel);
 	}
 
 
 	public void activateFirstJPanel() {
-		learnTopicButton.setEnabled(true);
+		practiseTopicReverseButton.setEnabled(true);
 		addWordButton.setEnabled(true);
 		practiseTopicButton.setEnabled(true);
 	}
 	
 	public void deactivateFirstJPanel() {
-		learnTopicButton.setEnabled(false);
+		practiseTopicReverseButton.setEnabled(false);
 		addWordButton.setEnabled(false);
 		practiseTopicButton.setEnabled(false);
 	}
@@ -110,7 +120,7 @@ public class MainMenuView extends JFrame {
 		showSolutionButton.setEnabled(true);
 		nextButton.setEnabled(true);
 		cancelButton.setEnabled(true);
-		textArea.setEditable(true);
+		textPane.setEditable(true);
 		textField.setEditable(true);
 	}
 	
@@ -120,7 +130,7 @@ public class MainMenuView extends JFrame {
 		showSolutionButton.setEnabled(false);
 		nextButton.setEnabled(false);
 		cancelButton.setEnabled(false);
-		textArea.setEditable(false);
+		textPane.setEditable(false);
 		textField.setEditable(false);
 	}
 	
@@ -140,6 +150,11 @@ public class MainMenuView extends JFrame {
 	public boolean isEnabledPractiseTopicButton() {
 //		System.out.println("Is Selected" + selectTopicButton.isEnabled());
 		return practiseTopicButton.isEnabled();
+	}
+	
+	public boolean isEnabledPractiseTopicReverseButton() {
+//		System.out.println("Is Selected" + selectTopicButton.isEnabled());
+		return practiseTopicReverseButton.isEnabled();
 	}
 	
 	public boolean isEnabledGetAssociationButton() {
@@ -163,7 +178,7 @@ public class MainMenuView extends JFrame {
 	}
 	
 	public void setTextToTheTextArea(String text) {
-		textArea.setText(text);
+		textPane.setText(text);
 	}
 	
 	public String getTextFromTextField() {
@@ -171,11 +186,11 @@ public class MainMenuView extends JFrame {
 	}
 	
 	public String getTextFromTextArea() {
-		return textArea.getText();
+		return textPane.getText();
 	}
 	
 	public void cleanTextArea() {
-		textArea.setText("");
+		textPane.setText("");
 	}
 	
 	public void cleanTextField() {
@@ -197,6 +212,10 @@ public class MainMenuView extends JFrame {
 	
 	public void addPractiseTopicListener(ActionListener listenerPractiseTopic) {
 		practiseTopicButton.addActionListener(listenerPractiseTopic);
+	}
+	
+	public void addPractiseTopicReverseListener(ActionListener listenerPractiseTopicReverse) {
+		practiseTopicReverseButton.addActionListener(listenerPractiseTopicReverse);
 	}
 	
 	public void addGetAssociationListener(ActionListener listenerGetAssociation) {
@@ -222,8 +241,8 @@ public class MainMenuView extends JFrame {
 		cancelButton.addActionListener(listenerCancel);
 	}
 	
-	public JTextArea getTextArea() {
-		return textArea;
+	public JTextPane getTextArea() {
+		return textPane;
 	}
 	
 	public JTextField getTextField() {

@@ -72,7 +72,7 @@ jacket:джэјкет::die Jacke,n, das Jackett,e:;
 tie:тјай::die Krawatte,n:;
 shorts(plural):щшќотс::die Shorts:;
 trousers(BE plural)=pants(AE plural):трэјузэс пЁнтс::die Hose,n:;
-gloves:глќвс::die Handschuhe:;
+gloves:глќвс:auf Handschuhe glotzen:die Handschuhe:;
 button:бјтн::der Knopf,oe-e:;
 pocket:пќкэт::die (Hosen-,Jacken-,...)tasche:;
 light blue-dark blue:::hellblau-dunkelblau:;
@@ -87,7 +87,7 @@ huge:хьёюдж::riesig:;
 logo:лќго::das Logo,s, das Markenzeichen:;
 moviegoer:м”вии гќуэ::der Kinogaenger, der Kinobesucher:;
 perfume:п®фьюю::das Parfuem,s, der Duft,ue-e:;
-watch,es:уоќтчь::die Armbanduhr,en:;
+watch:уоќтчь::die Armbanduhr,en:;
 to take medicine:м≈дисын::Tabletten einnehmen:;
 toothache(no plural):т”ус Ёйк::Zahnschmerzen:I've got toothache;
 sore arm:сќо јам::schmerzhafter Arm, schmerzen im Arm:I've got a 
@@ -97,6 +97,7 @@ ad,s=advertisement:Ёэд эдв®Єтисмэнт::die Werbung:;
 brand props:прќп::Markenunterstuetzung:;
 to appear:апп≈а::erscheinen, auftauchen:;
 separately-together:с≈пыртли::separat-zusammen:;
+ache:::r Schmerz:;
 
 
 

@@ -26,6 +26,7 @@ public class Topic {
 	private String[] currentEntry;
 	private Scanner topicScanner;
 	private Stack<String[]> stackOfTopics = new Stack<>();
+	private int topicSize;
 
 	
 	public Topic(File topicFile) /*throws FileNotFoundException*/ {
@@ -57,6 +58,7 @@ public class Topic {
 			stackOfTopics.push(tempListOfEntries.get(i));
 		}
 		topicScanner.reset();
+		topicSize = stackOfTopics.size();
 //		Scanner scanner = new Scanner(topicFile);
 	}
 	
@@ -151,6 +153,10 @@ public class Topic {
 	
 	public String getExamples() {
 		return currentEntry[4];
+	}
+	
+	public int getTopicSize() {
+		return topicSize;
 	}
 	
 	public boolean isEmptyStack() {
